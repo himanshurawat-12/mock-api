@@ -1,0 +1,104 @@
+{
+   "monitoring":[
+      {
+         "id":1,
+         "manuscriptNumber":"M12345",
+         "vendor":"Vendor A",
+         "journalId":"J001",
+         "notes":"Initial submission",
+         "receivedDate":"2025-03-01",
+         "dueDate":"2025-04-30",
+         "exceptionFlag":false,
+         "status":"In Progress",
+         "isHold":true
+      },
+      {
+         "id":2,
+         "manuscriptNumber":"M54321",
+         "vendor":"Vendor B",
+         "journalId":"J002",
+         "notes":"Revised submission",
+         "receivedDate":"2025-03-10",
+         "dueDate":"2025-04-20",
+         "exceptionFlag":true,
+         "status":"Published",
+         "isHold":true
+      },
+      {
+         "id":3,
+         "manuscriptNumber":"M10123",
+         "vendor":"Vendor C",
+         "journalId":"J003",
+         "notes":"Urgent review required",
+         "receivedDate":"2025-03-15",
+         "dueDate":"2025-04-01",
+         "exceptionFlag":false,
+         "status":"In Progress",
+         "isHold":true
+      },
+      {
+         "id":4,
+         "manuscriptNumber":"M10234",
+         "vendor":"Vendor D",
+         "journalId":"J004",
+         "notes":"Delayed submission",
+         "receivedDate":"2025-03-20",
+         "dueDate":"2025-03-25",
+         "exceptionFlag":true,
+         "status":"In Progress",
+         "isHold":false
+      },
+      {
+         "id":5,
+         "manuscriptNumber":"M10345",
+         "vendor":"Vendor E",
+         "journalId":"J005",
+         "notes":"Final review",
+         "receivedDate":"2025-03-25",
+         "dueDate":"2025-03-30",
+         "exceptionFlag":false,
+         "status":"Published",
+         "isHold":true
+      },
+      {
+         "id":6,
+         "manuscriptNumber":"M54321",
+         "vendor":"Vendor B",
+         "journalId":"J002",
+         "notes":"Revised submission",
+         "receivedDate":"2025-03-10",
+         "dueDate":"2025-04-20",
+         "exceptionFlag":false,
+         "status":"Published",
+         "isHold":true
+      }
+   ],
+   "jobs":[
+      {
+         "id":1,
+         "body":"some jobs content",
+         "jobId":1
+      },
+      {
+         "id":2,
+         "body":"some jobs content",
+         "jobId":2
+      },
+      {
+         "id":3,
+         "body":"some jobs content",
+         "jobId":3
+      },
+      {
+         "id":4,
+         "body":"some jobs content",
+         "jobId":4
+      }
+   ],
+   "profile":{
+      "name":"Himanshu Rawat"
+   },
+    "role":{
+      "name":"User"
+   }
+}
