@@ -58,7 +58,7 @@
          "dueDate":"2025-03-30",
          "exceptionFlag":false,
          "status":"Published",
-         "isHold":true
+         "isHold":false
       },
       {
          "id":6,
