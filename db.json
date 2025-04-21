@@ -19,7 +19,7 @@
          "journalId":"J002",
          "notes":"Revised submission",
          "receivedDate":"2025-03-10",
-         "dueDate":"2025-04-20",
+         "dueDate":"2025-05-20",
          "exceptionFlag":true,
          "status":"Published",
          "isHold":true
@@ -31,7 +31,7 @@
          "journalId":"J003",
          "notes":"Urgent review required",
          "receivedDate":"2025-03-15",
-         "dueDate":"2025-04-01",
+         "dueDate":"2025-05-01",
          "exceptionFlag":false,
          "status":"In Progress",
          "isHold":true
@@ -43,7 +43,7 @@
          "journalId":"J004",
          "notes":"Delayed submission",
          "receivedDate":"2025-03-20",
-         "dueDate":"2025-04-25",
+         "dueDate":"2025-05-25",
          "exceptionFlag":true,
          "status":"In Progress",
          "isHold":false
@@ -55,7 +55,7 @@
          "journalId":"J005",
          "notes":"Final review",
          "receivedDate":"2025-04-27",
-         "dueDate":"2025-03-30",
+         "dueDate":"2025-04-30",
          "exceptionFlag":false,
          "status":"Published",
          "isHold":false
