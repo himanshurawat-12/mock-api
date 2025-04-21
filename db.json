@@ -67,7 +67,7 @@
          "journalId":"J002",
          "notes":"Revised submission",
          "receivedDate":"2025-04-10",
-         "dueDate":"2025-04-20",
+         "dueDate":"2025-05-20",
          "exceptionFlag":false,
          "status":"Published",
          "isHold":true
@@ -80,6 +80,18 @@
          "notes":"Revised submission",
          "receivedDate":"2025-04-16",
          "dueDate":"2025-04-20",
+         "exceptionFlag":false,
+         "status":"Published",
+         "isHold":true
+      },
+      {
+         "id":8,
+         "manuscriptNumber":"M54321",
+         "vendor":"Vendor G",
+         "journalId":"J005",
+         "notes":"Revised submission",
+         "receivedDate":"2025-04-16",
+         "dueDate":"2025-05-20",
          "exceptionFlag":false,
          "status":"Published",
          "isHold":true
