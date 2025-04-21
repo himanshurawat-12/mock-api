@@ -71,6 +71,18 @@
          "exceptionFlag":false,
          "status":"Published",
          "isHold":true
+      },
+       {
+         "id":7,
+         "manuscriptNumber":"M54321",
+         "vendor":"Vendor F",
+         "journalId":"J002",
+         "notes":"Revised submission",
+         "receivedDate":"2025-04-16",
+         "dueDate":"2025-04-20",
+         "exceptionFlag":false,
+         "status":"Published",
+         "isHold":true
       }
    ],
    "jobs":[
