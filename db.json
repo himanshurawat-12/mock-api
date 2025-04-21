@@ -112,22 +112,12 @@
          "id":3,
          "body":"some jobs content",
          "jobId":3
-      },
-      {
-         "id":4,
-         "body":"some jobs content",
-         "jobId":4
-      },
-       {
-         "id":5,
-         "body":"some jobs content",
-         "jobId":4
       }
    ],
    "profile":{
       "name":"Himanshu Rawat"
    },
     "role":{
-      "name":"Admin"
+      "name":"User"
    }
 }
