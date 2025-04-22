@@ -1,5 +1,17 @@
 {
    "monitoring":[
+       {
+         "id":2,
+         "manuscriptNumber":"M54321",
+         "vendor":"Vendor A",
+         "journalId":"J002",
+         "notes":"Revised submission",
+         "receivedDate":"2025-03-10",
+         "dueDate":"2025-05-20",
+         "exceptionFlag":true,
+         "status":"Published",
+         "isHold":false
+      },
       {
          "id":1,
          "manuscriptNumber":"M12345",
@@ -11,18 +23,6 @@
          "exceptionFlag":false,
          "status":"In Progress",
          "isHold":true
-      },
-      {
-         "id":2,
-         "manuscriptNumber":"M54321",
-         "vendor":"Vendor B",
-         "journalId":"J002",
-         "notes":"Revised submission",
-         "receivedDate":"2025-03-10",
-         "dueDate":"2025-05-20",
-         "exceptionFlag":true,
-         "status":"Published",
-         "isHold":false
       },
       {
          "id":3,
@@ -46,7 +46,7 @@
          "dueDate":"",
          "exceptionFlag":true,
          "status":"In Progress",
-         "isHold":false
+         "isHold":true
       },
       {
          "id":5,
