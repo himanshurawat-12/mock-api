@@ -13,18 +13,6 @@
          "isHold":false
       },
       {
-         "id":1,
-         "manuscriptNumber":"M12345",
-         "vendor":"Vendor A",
-         "journalId":"J001",
-         "notes":"Initial submission",
-         "receivedDate":"2025-03-01",
-         "dueDate":"",
-         "exceptionFlag":false,
-         "status":"In Progress",
-         "isHold":true
-      },
-      {
          "id":3,
          "manuscriptNumber":"M10123",
          "vendor":"Vendor C",
@@ -59,6 +47,18 @@
          "exceptionFlag":false,
          "status":"Published",
          "isHold":false
+      },
+       {
+         "id":1,
+         "manuscriptNumber":"M12345",
+         "vendor":"Vendor A",
+         "journalId":"J001",
+         "notes":"Initial submission",
+         "receivedDate":"2025-03-01",
+         "dueDate":"",
+         "exceptionFlag":false,
+         "status":"In Progress",
+         "isHold":true
       },
       {
          "id":6,
