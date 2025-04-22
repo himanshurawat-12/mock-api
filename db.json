@@ -8,7 +8,7 @@
          "notes":"Revised submission",
          "receivedDate":"2025-03-10",
          "dueDate":"2025-05-20",
-         "exceptionFlag":true,
+         "exceptionFlag":false,
          "status":"Published",
          "isHold":false
       },
@@ -20,7 +20,7 @@
          "notes":"Urgent review required",
          "receivedDate":"2025-03-15",
          "dueDate":"",
-         "exceptionFlag":false,
+         "exceptionFlag":true,
          "status":"In Progress",
          "isHold":true
       },
