@@ -25,18 +25,6 @@
          "isHold":true
       },
       {
-         "id":4,
-         "manuscriptNumber":"M10234",
-         "vendor":"Vendor D",
-         "journalId":"J004",
-         "notes":"Delayed submission",
-         "receivedDate":"2025-03-20",
-         "dueDate":"",
-         "exceptionFlag":true,
-         "status":"In Progress",
-         "isHold":true
-      },
-      {
          "id":5,
          "manuscriptNumber":"M10345",
          "vendor":"Vendor E",
@@ -71,6 +59,18 @@
          "exceptionFlag":false,
          "status":"Published",
          "isHold":false
+      },
+       {
+         "id":4,
+         "manuscriptNumber":"M10234",
+         "vendor":"Vendor D",
+         "journalId":"J004",
+         "notes":"Delayed submission",
+         "receivedDate":"2025-03-20",
+         "dueDate":"",
+         "exceptionFlag":true,
+         "status":"In Progress",
+         "isHold":true
       },
        {
          "id":7,
