@@ -7,7 +7,7 @@
          "journalId":"J001",
          "notes":"Initial submission",
          "receivedDate":"2025-03-01",
-         "dueDate":"2025-04-30",
+         "dueDate":"",
          "exceptionFlag":false,
          "status":"In Progress",
          "isHold":true
@@ -22,7 +22,7 @@
          "dueDate":"2025-05-20",
          "exceptionFlag":true,
          "status":"Published",
-         "isHold":true
+         "isHold":false
       },
       {
          "id":3,
@@ -31,7 +31,7 @@
          "journalId":"J003",
          "notes":"Urgent review required",
          "receivedDate":"2025-03-15",
-         "dueDate":"2025-05-01",
+         "dueDate":"",
          "exceptionFlag":false,
          "status":"In Progress",
          "isHold":true
@@ -43,7 +43,7 @@
          "journalId":"J004",
          "notes":"Delayed submission",
          "receivedDate":"2025-03-20",
-         "dueDate":"2025-05-25",
+         "dueDate":"",
          "exceptionFlag":true,
          "status":"In Progress",
          "isHold":false
@@ -70,7 +70,7 @@
          "dueDate":"2025-05-20",
          "exceptionFlag":false,
          "status":"Published",
-         "isHold":true
+         "isHold":false
       },
        {
          "id":7,
@@ -82,7 +82,7 @@
          "dueDate":"2025-04-20",
          "exceptionFlag":false,
          "status":"Published",
-         "isHold":true
+         "isHold":false
       },
       {
          "id":8,
@@ -94,7 +94,7 @@
          "dueDate":"2025-05-20",
          "exceptionFlag":false,
          "status":"Published",
-         "isHold":true
+         "isHold":false
       }
    ],
    "jobs":[
